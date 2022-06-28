@@ -1,0 +1,15 @@
+{
+  "name": "code-challenge",
+  "version": "1.0.0",
+  "description": "For this coding challenge you will build a webpage based off of a mockup image. Follow the steps below to complete the challenge.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ktownecreative/Code-Challenge/issues"
+  },
+  "homepage": "https://github.com/ktownecreative/Code-Challenge"
+}
